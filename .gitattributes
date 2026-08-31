@@ -1,0 +1,10 @@
+vendor/* linguist-vendored
+*.json linguist-detectable=false
+*.svg text
+Cargo.lock linguist-generated
+*.woff2 binary
+*.tsx linguist-detectable
+app/**/*.tsx linguist-detectable
+build/* linguist-vendored
+public/index.html linguist-vendored
+public/*.html linguist-vendored
